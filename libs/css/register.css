@@ -1,0 +1,16 @@
+body{
+    background: url('/img/unnamed.jpg') no-repeat;
+    background-color: aqua;
+    background-size:cover; 
+    margin:0;
+    padding:0;
+
+}
+
+.frominput{
+    width: 50%;
+    height: 30%;
+    position: fixed;
+    padding: 10%;
+}
+
